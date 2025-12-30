@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "email": "camilo.95@gmail.com",
+      "password": "$2a$10$zb9RT4umx4NL/Ae8mVMhe.HqlfCDB0PrUb/7eFccjH8CD2JoPqOse",
+      "name": "camilo",
+      "id": 1
+    }
+  ],
+  "notes": []
+}
